@@ -1,0 +1,28 @@
+h1{
+    color:royalblue;
+}
+
+h3,h2{
+    color:goldenrod;
+    text-align: center;
+}
+
+
+
+
+.header{
+    border:solid;
+    background-image: "img.png" ;
+    display:flex;
+    justify-content: space-between;
+   
+   
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
